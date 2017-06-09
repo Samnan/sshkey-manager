@@ -58,8 +58,14 @@ If my code breaks your system - not my fault.
 Otherwise, let me know if something isn't working, needs fixed, or if you have ideas on making it better.
 
 
-Changelog
----------
+"Rough" Changelog
+-----------------
 - Updated PHPSECLIB to 1.0.5
 - Fix bug with SSH Key deployment
 - Added some small functionality to remote commands showing live instead of static.
+
+
+Feature Ideas
+-------------
+- Maintain different keys at the same time
+- Ability to revoke keys on all systems at once
